@@ -1,8 +1,8 @@
 # ParrotBar
 
-https://apps.apple.com/us/app/parrotbar/id6618137282?mt=12
+App Link: https://apps.apple.com/us/app/parrotbar/id6618137282?mt=12
 
-![ParrotBar Icon ](Icons/512.png)
+![ParrotBar Icon](Icons/256.png)
 
 ParrotBar is a macOS menu bar application that displays party parrot animations and provides minimal system and network info. 
 This app features animated GIFs sourced from Cult of the Party Parrot (https://cultofthepartyparrot.com/), and offers insights 
