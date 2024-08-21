@@ -8,8 +8,6 @@ ParrotBar is a macOS menu bar application that displays party parrot animations 
 This app features animated GIFs sourced from Cult of the Party Parrot (https://cultofthepartyparrot.com/), and offers insights 
 into system uptime, disk usage, and public IP address.
 
-![MenuBar Ex](Assets/ParrotBarEx.png)
-
 ## Features
 Party Parrot Animations: Displays a series of animated party parrot GIFs in the menu bar.
 
@@ -40,3 +38,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 For any inquiries or support, please contact murdock.mich@gmail.com or visit the app repository: https://github.com/murdockma/ParrotBar
 
+
+![MenuBar Ex](Assets/ParrotBarEx.png)
