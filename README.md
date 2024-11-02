@@ -32,11 +32,5 @@ Toggle Random Mode: Enable or disable random mode to cycle through different ani
 
 View System Information: Access the system uptime, disk usage, IP, and battery level through the menu bar icon
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-For any inquiries or support, please contact murdock.mich@gmail.com or visit the app repository: https://github.com/murdockma/ParrotBar
-
 
 ![MenuBar Ex](Assets/ParrotBarEx.png)
